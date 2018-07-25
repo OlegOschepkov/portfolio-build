@@ -421,7 +421,7 @@
   padding: 0;
   margin: 0;
   margin: 15px;
-  width: 100%;
+  width: calc(100% - 30px);
 }
 @media (min-width: 600px) {
   .skills__item {
